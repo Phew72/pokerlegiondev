@@ -1,3 +1,5 @@
+using System;
+
 public class Foo
 {
 	private int number;
